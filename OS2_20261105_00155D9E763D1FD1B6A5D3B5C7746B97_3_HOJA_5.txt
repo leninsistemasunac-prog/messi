@@ -1,0 +1,3 @@
+Orden de servicio*	Posición*	Posición superior	Descripción de la posición	Clave de idioma	Producto	Ctd.	Unidad de medida	Duración	Unidad de duración	Tipo posición	Facturable - Control	Solicitante	Destinatario de mercancías	Destinatario de la factura	Pagador	Empleado responsable	Responsable de prestación de servicios	Contrato de servicio	Posición de contrato de servicio	Solicitud de servicio	Posición de solicitud de servicios	Hoja de horas de trabajo horas extras
+"000321000002"	"000010"	""	"Pruebas Unitarias - HN2H"	"ES"	""	"1.000"	""	"0.0"	"DAY"	""	""	""	""	""	""	""	""	""	""	""	""	""
+"000511000391"	"000010"	""	"Cofarma fortalecimiento control interno"	"ES"	""	"1.000"	""	"0.0"	"DAY"	""	""	""	""	""	""	""	""	""	""	""	""	""
